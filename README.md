@@ -6,7 +6,7 @@
 
 > [!NOTE]
 AIM: Learn the steps required to exercise TDD as the application development process
-> TDD is a requirement for the project. It is a very difficult skill to implement consistently so it definitely requires practice and discipline
+> TDD is a requirement for the project. It is a very difficult skill to implement consistently so it definitely requires practice and discipline,,
 
 ## Activity 1 - Preparation - Setting up the Project
 
